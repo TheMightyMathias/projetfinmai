@@ -1,0 +1,22 @@
+{
+  "name": "projetfinmai",
+  "version": "1.0.0",
+  "description": "a small demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMightyMathias/projetfinmai.git"
+  },
+  "author": "Mathias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheMightyMathias/projetfinmai/issues"
+  },
+  "homepage": "https://github.com/TheMightyMathias/projetfinmai#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
